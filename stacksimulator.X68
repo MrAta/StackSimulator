@@ -1,6 +1,6 @@
 *-----------------------------------------------------------
 * Title      : Ata Stack Simulator.
-* Written by : Mr.Ata Fatahi Barzi , StudentID : 91105903
+* Written by : Mr.Ata Fatahi Barzi 
 * Date       : 19 , Jan , 2014
 * Description: This program simulates Stack Data Structure. which contains two command button , one for Push data into Stack and
 *               another for pop data from Stack.                                   
